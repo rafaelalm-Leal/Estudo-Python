@@ -5,7 +5,9 @@
 
 with open("anotacoes.txt", "a") as arquivo:
     arquivo.write(input("Digite sua anotação: ") + "\n")
-    
+
+print("\nAnotações salvas:")
+
 with open("anotacoes.txt", "r") as arquivo:
     for linha in arquivo:
         print(linha.strip())

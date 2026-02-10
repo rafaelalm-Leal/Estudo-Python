@@ -1,0 +1,1 @@
+Estudando sobre leitura e escrita de arquivos .txt no pythonEstudos em python sobre leitura e escrita de arquivos .txtRenovação dos estudos em python
